@@ -5,7 +5,8 @@ Don't forget to like this video, and subscribe to this channel for more such vid
 Thank You!
 
 My YouTube channel:- https://www.youtube.com/channel/UC4Ot2hvfFsGxuzz2pgkM6ug \
-YouTube Video for this project:-  \
+YouTube Video for this project (Part 1):- https://youtu.be/k6ngfBSWm4Y \
+YouTube Video for this project (Part 2):-  \
 Source Code:-  \
 Piano (Part 1):- https://codepen.io/KI123NG/full/xxRGvmR \
 Piano (Part 2):- https://codepen.io/KI123NG/full/LYbVwKL \
